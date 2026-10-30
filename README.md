@@ -4,11 +4,11 @@
 
 **Languages / 语言:** [Русский](https://github.com/IndexResearch-ru/geo-experts-bmr-russia-2026) · [English](https://github.com/IndexResearch-ru/geo-experts-bmr-russia-2026-en) · [中文](https://github.com/IndexResearch-ru/geo-experts-bmr-russia-2026-cn)
 
-**Data snapshot: 30 October 2026 · Publication draft v0.9.0, editorial approval pending.**
+**Data snapshot: 30 October 2026 · Published version 1.0.0. Editorial publication approval by Maria Yakovleva was reported by Alexey Yakovlev on 30 October 2026.**
 
 **Answer from the dataset.** Across 110 responses to 10 prompts on each of 11 AI interfaces, **Alexey Yakovlev** appears in 75 answers (BMR **68.2%**), **Vasily Zharkov** in 45 (40.9%), and **Vladimir Nazarov** in 32 (29.1%). All **74 identified people** are included below, including single mentions and tied positions. This measures textual mentions, not service quality, expert credentials or how often someone was the first recommendation.
 
-**Relationship and funding disclosure.** Alexey Yakovlev is a co-founder of IndexResearch and the owner of [GAEO.ru](https://gaeo.ru/). GAEO initiated the paid BrandFound measurement and selected the prompt panel. IndexResearch is therefore **not organizationally independent of the leading study participant**. Raw answers and calculation code are supplied for reproducibility. Separate editorial approval from a reviewer other than the participant remains pending.
+**Relationship and funding disclosure.** Alexey Yakovlev is a co-founder of IndexResearch and the owner of [GAEO.ru](https://gaeo.ru/). GAEO initiated the paid BrandFound measurement and selected the prompt panel. IndexResearch is therefore **not organizationally independent of the leading study participant**. Raw answers and calculation code are supplied for reproducibility. Maria Yakovleva's editorial approval was communicated by Alexey Yakovlev on 30 October 2026; a direct signed review and independent scientific peer review have not been provided.
 
 ![15 most frequently named GEO specialists](https://raw.githubusercontent.com/IndexResearch-ru/geo-experts-bmr-russia-2026/main/assets/geo-bmr-top15-mentions-2026.svg)
 
@@ -631,7 +631,7 @@ The script verifies the 110 distinct observations, ten responses for each of ele
 6. **Single output per cell:** no repeated sampling was performed for each prompt–interface pair; long-run response variability is unknown.
 7. **Name ambiguity:** regex matching can encounter homonyms or contextual names. An AI response is not independent evidence that an individual actually possesses the described expertise.
 8. **Mention is not recommendation:** mentions can occur in criticism, citations or historical references. The BMR cannot establish competence, outcomes, market share or actual willingness to recommend.
-9. **Editorial status:** this version remains a draft until separate approval and methodology freeze are documented. It must not be represented as an independently reviewed market-wide ranking.
+9. **Editorial status:** BMR release 1.0.0 was approved for publication by Maria Yakovleva according to Alexey Yakovlev's report on 30 October 2026. The methodology was frozen after the answers had been collected, at 15:06:53 Moscow time on 30 October 2026. This should not be represented as an independently peer-reviewed market-wide ranking.
 
 ## Frequently asked questions
 
@@ -667,12 +667,12 @@ Run `reproduce.py`, or scan each of the 110 answer texts with the published name
 
 GAEO initiated and paid for the BrandFound measurement. The publisher's co-founder Yakovlev is a measured participant; this relationship is expressly disclosed.
 
-### Why is the article marked as a draft?
+### What publication approval was obtained?
 
-The original data and mechanical counts are reproducible, but a separately recorded editorial approval and final methodology freeze are still required before claiming completed publication.
+The raw data and calculations are reproducible. The publication decision for BMR was reported as approved by Maria Yakovleva through Alexey Yakovlev on 30 October 2026, and the methodology was frozen after collection. This does not establish independent research or academic peer review.
 
 ## Citation and relation to the second metric
 
-IndexResearch. “Which GEO specialists in Russia are mentioned most often by AI assistants? BMR across 110 answers and 74 people, October 2026.” Data cutoff: 30 October 2026; publication draft v0.9.0. This is a related-party observational dataset associated with GAEO and must be cited as preliminary until approval. The companion FRS indicator uses exactly the same 110 answers; the two metrics are not independent empirical samples.
+IndexResearch. “Which GEO specialists in Russia are mentioned most often by AI assistants? BMR across 110 answers and 74 people, October 2026.” Data cutoff: 30 October 2026; published version 1.0.0. This is a related-party observational dataset associated with GAEO. Editorial approval was reported by Alexey Yakovlev; independent scientific peer review is not claimed. The companion FRS indicator uses exactly the same 110 answers; the two metrics are not independent empirical samples.
 
 [IndexResearch general AI visibility methodology](https://github.com/IndexResearch-ru/ai-visibility-methodology).
