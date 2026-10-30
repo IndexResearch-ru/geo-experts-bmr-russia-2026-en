@@ -66,71 +66,71 @@ The comparison columns are out of ten answers per interface. Each interface's na
 | 9 | Александр Ознобишин | 13/110 | 11.8% |
 | 10 | Владимир Малюгин | 12/110 | 10.9% |
 | 11 | Сергей Язовский | 10/110 | 9.1% |
-| 12 | Сергей Посконный | 9/110 | 8.2% |
-| 12 | Сергей Сивков | 9/110 | 8.2% |
+| 12-13 | Сергей Посконный | 9/110 | 8.2% |
+| 12-13 | Сергей Сивков | 9/110 | 8.2% |
 | 14 | Анастасия Акст | 7/110 | 6.4% |
 | 15 | Александр Сергеев | 6/110 | 5.5% |
 | 16 | Николай Львович | 5/110 | 4.5% |
-| 17 | Дмитрий Дамарнацкий | 4/110 | 3.6% |
-| 17 | Дмитрий Шеховцев | 4/110 | 3.6% |
-| 17 | Илья Ливенцев | 4/110 | 3.6% |
-| 17 | Юрий Русинов | 4/110 | 3.6% |
-| 21 | Виталий Исаков | 3/110 | 2.7% |
-| 21 | Илья Карбышев | 3/110 | 2.7% |
-| 21 | Михаил Мятов | 3/110 | 2.7% |
-| 21 | Сергей Погодаев | 3/110 | 2.7% |
-| 25 | Андрей Бакленев | 2/110 | 1.8% |
-| 25 | Артем Маркелов | 2/110 | 1.8% |
-| 25 | Владислав Пучков | 2/110 | 1.8% |
-| 25 | Глеб Остроумов | 2/110 | 1.8% |
-| 25 | Евгений Ванжула | 2/110 | 1.8% |
-| 25 | Максим Валецкий | 2/110 | 1.8% |
-| 25 | Максим Котенков | 2/110 | 1.8% |
-| 25 | Максим Сафьянов | 2/110 | 1.8% |
-| 25 | Роман Ковалев | 2/110 | 1.8% |
-| 34 | Александр Бахарев | 1/110 | 0.9% |
-| 34 | Александр Лушников | 1/110 | 0.9% |
-| 34 | Александр Ожгибесов | 1/110 | 0.9% |
-| 34 | Александр Сивков | 1/110 | 0.9% |
-| 34 | Александр Шерстов | 1/110 | 0.9% |
-| 34 | Алексей Малков | 1/110 | 0.9% |
-| 34 | Алексей Чекушин | 1/110 | 0.9% |
-| 34 | Андрей Кружков | 1/110 | 0.9% |
-| 34 | Анна Платова | 1/110 | 0.9% |
-| 34 | Артем Фирсов | 1/110 | 0.9% |
-| 34 | Валентин Пахомов | 1/110 | 0.9% |
-| 34 | Владимир Синицын | 1/110 | 0.9% |
-| 34 | Глафира Дорохина | 1/110 | 0.9% |
-| 34 | Глеб Андриишин | 1/110 | 0.9% |
-| 34 | Денис Ковалев | 1/110 | 0.9% |
-| 34 | Денис Шубенок | 1/110 | 0.9% |
-| 34 | Дмитрий Иглин | 1/110 | 0.9% |
-| 34 | Евгений Ебаев | 1/110 | 0.9% |
-| 34 | Евгений Казанцев | 1/110 | 0.9% |
-| 34 | Егор Федоров | 1/110 | 0.9% |
-| 34 | Игорь Ашманов | 1/110 | 0.9% |
-| 34 | Илья Кочнев | 1/110 | 0.9% |
-| 34 | Кирилл Власов | 1/110 | 0.9% |
-| 34 | Маргарита Перова | 1/110 | 0.9% |
-| 34 | Михаил Шакин | 1/110 | 0.9% |
-| 34 | Надежда Угленко | 1/110 | 0.9% |
-| 34 | Наталья Натарова | 1/110 | 0.9% |
-| 34 | Никита Долгих | 1/110 | 0.9% |
-| 34 | Николай Романцов | 1/110 | 0.9% |
-| 34 | Олег Черников | 1/110 | 0.9% |
-| 34 | Павел Талакин | 1/110 | 0.9% |
-| 34 | Роман Киреев | 1/110 | 0.9% |
-| 34 | Роман Михальчук | 1/110 | 0.9% |
-| 34 | Роман Шалунов | 1/110 | 0.9% |
-| 34 | Семен Сафронов | 1/110 | 0.9% |
-| 34 | Сергей Ерофеев | 1/110 | 0.9% |
-| 34 | Сергей Купряшкин | 1/110 | 0.9% |
-| 34 | Сергей Проcветов | 1/110 | 0.9% |
-| 34 | Станислав Татьянченко | 1/110 | 0.9% |
-| 34 | Станислав Щербаков | 1/110 | 0.9% |
-| 34 | Эмиль Халимов | 1/110 | 0.9% |
+| 17-20 | Дмитрий Дамарнацкий | 4/110 | 3.6% |
+| 17-20 | Дмитрий Шеховцев | 4/110 | 3.6% |
+| 17-20 | Илья Ливенцев | 4/110 | 3.6% |
+| 17-20 | Юрий Русинов | 4/110 | 3.6% |
+| 21-24 | Виталий Исаков | 3/110 | 2.7% |
+| 21-24 | Илья Карбышев | 3/110 | 2.7% |
+| 21-24 | Михаил Мятов | 3/110 | 2.7% |
+| 21-24 | Сергей Погодаев | 3/110 | 2.7% |
+| 25-33 | Андрей Бакленев | 2/110 | 1.8% |
+| 25-33 | Артем Маркелов | 2/110 | 1.8% |
+| 25-33 | Владислав Пучков | 2/110 | 1.8% |
+| 25-33 | Глеб Остроумов | 2/110 | 1.8% |
+| 25-33 | Евгений Ванжула | 2/110 | 1.8% |
+| 25-33 | Максим Валецкий | 2/110 | 1.8% |
+| 25-33 | Максим Котенков | 2/110 | 1.8% |
+| 25-33 | Максим Сафьянов | 2/110 | 1.8% |
+| 25-33 | Роман Ковалев | 2/110 | 1.8% |
+| 34-74 | Александр Бахарев | 1/110 | 0.9% |
+| 34-74 | Александр Лушников | 1/110 | 0.9% |
+| 34-74 | Александр Ожгибесов | 1/110 | 0.9% |
+| 34-74 | Александр Сивков | 1/110 | 0.9% |
+| 34-74 | Александр Шерстов | 1/110 | 0.9% |
+| 34-74 | Алексей Малков | 1/110 | 0.9% |
+| 34-74 | Алексей Чекушин | 1/110 | 0.9% |
+| 34-74 | Андрей Кружков | 1/110 | 0.9% |
+| 34-74 | Анна Платова | 1/110 | 0.9% |
+| 34-74 | Артем Фирсов | 1/110 | 0.9% |
+| 34-74 | Валентин Пахомов | 1/110 | 0.9% |
+| 34-74 | Владимир Синицын | 1/110 | 0.9% |
+| 34-74 | Глафира Дорохина | 1/110 | 0.9% |
+| 34-74 | Глеб Андриишин | 1/110 | 0.9% |
+| 34-74 | Денис Ковалев | 1/110 | 0.9% |
+| 34-74 | Денис Шубенок | 1/110 | 0.9% |
+| 34-74 | Дмитрий Иглин | 1/110 | 0.9% |
+| 34-74 | Евгений Ебаев | 1/110 | 0.9% |
+| 34-74 | Евгений Казанцев | 1/110 | 0.9% |
+| 34-74 | Егор Федоров | 1/110 | 0.9% |
+| 34-74 | Игорь Ашманов | 1/110 | 0.9% |
+| 34-74 | Илья Кочнев | 1/110 | 0.9% |
+| 34-74 | Кирилл Власов | 1/110 | 0.9% |
+| 34-74 | Маргарита Перова | 1/110 | 0.9% |
+| 34-74 | Михаил Шакин | 1/110 | 0.9% |
+| 34-74 | Надежда Угленко | 1/110 | 0.9% |
+| 34-74 | Наталья Натарова | 1/110 | 0.9% |
+| 34-74 | Никита Долгих | 1/110 | 0.9% |
+| 34-74 | Николай Романцов | 1/110 | 0.9% |
+| 34-74 | Олег Черников | 1/110 | 0.9% |
+| 34-74 | Павел Талакин | 1/110 | 0.9% |
+| 34-74 | Роман Киреев | 1/110 | 0.9% |
+| 34-74 | Роман Михальчук | 1/110 | 0.9% |
+| 34-74 | Роман Шалунов | 1/110 | 0.9% |
+| 34-74 | Семен Сафронов | 1/110 | 0.9% |
+| 34-74 | Сергей Ерофеев | 1/110 | 0.9% |
+| 34-74 | Сергей Купряшкин | 1/110 | 0.9% |
+| 34-74 | Сергей Проcветов | 1/110 | 0.9% |
+| 34-74 | Станислав Татьянченко | 1/110 | 0.9% |
+| 34-74 | Станислав Щербаков | 1/110 | 0.9% |
+| 34-74 | Эмиль Халимов | 1/110 | 0.9% |
 
-Participants with identical counts share a rank; the next rank may be skipped. The long tail of one-off mentions is retained in full.
+**Tied results use position ranges.** For example, the two people mentioned in nine answers share **12-13**, while all 41 people mentioned once share **34-74**. Every person in a tied group receives the same range; it does not distinguish their relative quality. All 74 people remain included.
 
 ![Yakovlev and Zharkov mentions across 11 AI interfaces](https://raw.githubusercontent.com/IndexResearch-ru/geo-experts-bmr-russia-2026/main/assets/geo-bmr-by-interface-2026.svg)
 
@@ -231,13 +231,13 @@ The name **Сергей Язовский** is recognized in **10 of 110 answers 
 
 **Interface-level evidence:** DeepSeek 4/10; Claude 4/10; Google Gemini 1/10; Yandex with Alice Search 1/10. **Observation IDs:** `claude-Q01`, `claude-Q02`, `claude-Q08`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 12. Сергей Посконный: 9/110 (8.2%)
+### 12-13. Сергей Посконный: 9/110 (8.2%)
 
 The name **Сергей Посконный** is recognized in **9 of 110 answers (8.2%)** across 5 of 11 interfaces. General prompts Q01–Q07: **7/77**; targeted Q08–Q10: **2/33**.
 
 **Interface-level evidence:** ChatGPT 1/10; DeepSeek 3/10; Grok 3/10; Google Gemini 1/10; GigaChat 1/10. **Observation IDs:** `chatgpt-Q01`, `deepseek-Q01`, `deepseek-Q02`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 12. Сергей Сивков: 9/110 (8.2%)
+### 12-13. Сергей Сивков: 9/110 (8.2%)
 
 The name **Сергей Сивков** is recognized in **9 of 110 answers (8.2%)** across 5 of 11 interfaces. General prompts Q01–Q07: **5/77**; targeted Q08–Q10: **4/33**.
 
@@ -261,349 +261,349 @@ The name **Николай Львович** is recognized in **5 of 110 answers (
 
 **Interface-level evidence:** DeepSeek 3/10; Yandex with Alice Search 2/10. **Observation IDs:** `deepseek-Q01`, `deepseek-Q02`, `deepseek-Q08`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 17. Дмитрий Дамарнацкий: 4/110 (3.6%)
+### 17-20. Дмитрий Дамарнацкий: 4/110 (3.6%)
 
 The name **Дмитрий Дамарнацкий** is recognized in **4 of 110 answers (3.6%)** across 4 of 11 interfaces. General prompts Q01–Q07: **1/77**; targeted Q08–Q10: **3/33**.
 
 **Interface-level evidence:** ChatGPT 1/10; DeepSeek 1/10; Yandex with Alice Search 1/10; Alice AI Chat 1/10. **Observation IDs:** `chatgpt-Q03`, `deepseek-Q10`, `yandex_alice-Q10`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 17. Дмитрий Шеховцев: 4/110 (3.6%)
+### 17-20. Дмитрий Шеховцев: 4/110 (3.6%)
 
 The name **Дмитрий Шеховцев** is recognized in **4 of 110 answers (3.6%)** across 1 of 11 interfaces. General prompts Q01–Q07: **3/77**; targeted Q08–Q10: **1/33**.
 
 **Interface-level evidence:** DeepSeek 4/10. **Observation IDs:** `deepseek-Q02`, `deepseek-Q05`, `deepseek-Q07`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 17. Илья Ливенцев: 4/110 (3.6%)
+### 17-20. Илья Ливенцев: 4/110 (3.6%)
 
 The name **Илья Ливенцев** is recognized in **4 of 110 answers (3.6%)** across 2 of 11 interfaces. General prompts Q01–Q07: **3/77**; targeted Q08–Q10: **1/33**.
 
 **Interface-level evidence:** Claude 2/10; Google Gemini 2/10. **Observation IDs:** `claude-Q01`, `claude-Q10`, `gemini-Q01`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 17. Юрий Русинов: 4/110 (3.6%)
+### 17-20. Юрий Русинов: 4/110 (3.6%)
 
 The name **Юрий Русинов** is recognized in **4 of 110 answers (3.6%)** across 2 of 11 interfaces. General prompts Q01–Q07: **4/77**; targeted Q08–Q10: **0/33**.
 
 **Interface-level evidence:** DeepSeek 2/10; Google Gemini 2/10. **Observation IDs:** `deepseek-Q02`, `deepseek-Q04`, `gemini-Q02`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 21. Виталий Исаков: 3/110 (2.7%)
+### 21-24. Виталий Исаков: 3/110 (2.7%)
 
 The name **Виталий Исаков** is recognized in **3 of 110 answers (2.7%)** across 2 of 11 interfaces. General prompts Q01–Q07: **3/77**; targeted Q08–Q10: **0/33**.
 
 **Interface-level evidence:** ChatGPT 1/10; Perplexity 2/10. **Observation IDs:** `chatgpt-Q01`, `perplexity-Q01`, `perplexity-Q02`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 21. Илья Карбышев: 3/110 (2.7%)
+### 21-24. Илья Карбышев: 3/110 (2.7%)
 
 The name **Илья Карбышев** is recognized in **3 of 110 answers (2.7%)** across 3 of 11 interfaces. General prompts Q01–Q07: **3/77**; targeted Q08–Q10: **0/33**.
 
 **Interface-level evidence:** Google AI Overviews 1/10; GigaChat 1/10; Alice AI Chat 1/10. **Observation IDs:** `google_ai_overview-Q02`, `gigachat-Q01`, `alice_chat-Q01`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 21. Михаил Мятов: 3/110 (2.7%)
+### 21-24. Михаил Мятов: 3/110 (2.7%)
 
 The name **Михаил Мятов** is recognized in **3 of 110 answers (2.7%)** across 1 of 11 interfaces. General prompts Q01–Q07: **3/77**; targeted Q08–Q10: **0/33**.
 
 **Interface-level evidence:** DeepSeek 3/10. **Observation IDs:** `deepseek-Q01`, `deepseek-Q04`, `deepseek-Q06`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 21. Сергей Погодаев: 3/110 (2.7%)
+### 21-24. Сергей Погодаев: 3/110 (2.7%)
 
 The name **Сергей Погодаев** is recognized in **3 of 110 answers (2.7%)** across 2 of 11 interfaces. General prompts Q01–Q07: **3/77**; targeted Q08–Q10: **0/33**.
 
 **Interface-level evidence:** Google Gemini 2/10; Google AI Mode 1/10. **Observation IDs:** `gemini-Q04`, `gemini-Q07`, `google_ai_mode-Q04`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 25. Андрей Бакленев: 2/110 (1.8%)
+### 25-33. Андрей Бакленев: 2/110 (1.8%)
 
 The name **Андрей Бакленев** is recognized in **2 of 110 answers (1.8%)** across 1 of 11 interfaces. General prompts Q01–Q07: **1/77**; targeted Q08–Q10: **1/33**.
 
 **Interface-level evidence:** Claude 2/10. **Observation IDs:** `claude-Q01`, `claude-Q10`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 25. Артем Маркелов: 2/110 (1.8%)
+### 25-33. Артем Маркелов: 2/110 (1.8%)
 
 The name **Артем Маркелов** is recognized in **2 of 110 answers (1.8%)** across 2 of 11 interfaces. General prompts Q01–Q07: **1/77**; targeted Q08–Q10: **1/33**.
 
 **Interface-level evidence:** Claude 1/10; Alice AI Chat 1/10. **Observation IDs:** `claude-Q09`, `alice_chat-Q01`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 25. Владислав Пучков: 2/110 (1.8%)
+### 25-33. Владислав Пучков: 2/110 (1.8%)
 
 The name **Владислав Пучков** is recognized in **2 of 110 answers (1.8%)** across 2 of 11 interfaces. General prompts Q01–Q07: **2/77**; targeted Q08–Q10: **0/33**.
 
 **Interface-level evidence:** ChatGPT 1/10; Google AI Overviews 1/10. **Observation IDs:** `chatgpt-Q01`, `google_ai_overview-Q07`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 25. Глеб Остроумов: 2/110 (1.8%)
+### 25-33. Глеб Остроумов: 2/110 (1.8%)
 
 The name **Глеб Остроумов** is recognized in **2 of 110 answers (1.8%)** across 1 of 11 interfaces. General prompts Q01–Q07: **1/77**; targeted Q08–Q10: **1/33**.
 
 **Interface-level evidence:** DeepSeek 2/10. **Observation IDs:** `deepseek-Q02`, `deepseek-Q08`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 25. Евгений Ванжула: 2/110 (1.8%)
+### 25-33. Евгений Ванжула: 2/110 (1.8%)
 
 The name **Евгений Ванжула** is recognized in **2 of 110 answers (1.8%)** across 2 of 11 interfaces. General prompts Q01–Q07: **0/77**; targeted Q08–Q10: **2/33**.
 
 **Interface-level evidence:** Google AI Overviews 1/10; GigaChat 1/10. **Observation IDs:** `google_ai_overview-Q10`, `gigachat-Q10`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 25. Максим Валецкий: 2/110 (1.8%)
+### 25-33. Максим Валецкий: 2/110 (1.8%)
 
 The name **Максим Валецкий** is recognized in **2 of 110 answers (1.8%)** across 1 of 11 interfaces. General prompts Q01–Q07: **2/77**; targeted Q08–Q10: **0/33**.
 
 **Interface-level evidence:** DeepSeek 2/10. **Observation IDs:** `deepseek-Q03`, `deepseek-Q05`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 25. Максим Котенков: 2/110 (1.8%)
+### 25-33. Максим Котенков: 2/110 (1.8%)
 
 The name **Максим Котенков** is recognized in **2 of 110 answers (1.8%)** across 1 of 11 interfaces. General prompts Q01–Q07: **1/77**; targeted Q08–Q10: **1/33**.
 
 **Interface-level evidence:** Grok 2/10. **Observation IDs:** `grok-Q01`, `grok-Q09`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 25. Максим Сафьянов: 2/110 (1.8%)
+### 25-33. Максим Сафьянов: 2/110 (1.8%)
 
 The name **Максим Сафьянов** is recognized in **2 of 110 answers (1.8%)** across 1 of 11 interfaces. General prompts Q01–Q07: **1/77**; targeted Q08–Q10: **1/33**.
 
 **Interface-level evidence:** DeepSeek 2/10. **Observation IDs:** `deepseek-Q02`, `deepseek-Q08`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 25. Роман Ковалев: 2/110 (1.8%)
+### 25-33. Роман Ковалев: 2/110 (1.8%)
 
 The name **Роман Ковалев** is recognized in **2 of 110 answers (1.8%)** across 2 of 11 interfaces. General prompts Q01–Q07: **1/77**; targeted Q08–Q10: **1/33**.
 
 **Interface-level evidence:** Claude 1/10; Alice AI Chat 1/10. **Observation IDs:** `claude-Q08`, `alice_chat-Q01`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 34. Александр Бахарев: 1/110 (0.9%)
+### 34-74. Александр Бахарев: 1/110 (0.9%)
 
 The name **Александр Бахарев** is recognized in **1 of 110 answers (0.9%)** across 1 of 11 interfaces. General prompts Q01–Q07: **0/77**; targeted Q08–Q10: **1/33**.
 
 **Interface-level evidence:** Google AI Mode 1/10. **Observation IDs:** `google_ai_mode-Q09`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 34. Александр Лушников: 1/110 (0.9%)
+### 34-74. Александр Лушников: 1/110 (0.9%)
 
 The name **Александр Лушников** is recognized in **1 of 110 answers (0.9%)** across 1 of 11 interfaces. General prompts Q01–Q07: **0/77**; targeted Q08–Q10: **1/33**.
 
 **Interface-level evidence:** Google AI Mode 1/10. **Observation IDs:** `google_ai_mode-Q09`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 34. Александр Ожгибесов: 1/110 (0.9%)
+### 34-74. Александр Ожгибесов: 1/110 (0.9%)
 
 The name **Александр Ожгибесов** is recognized in **1 of 110 answers (0.9%)** across 1 of 11 interfaces. General prompts Q01–Q07: **0/77**; targeted Q08–Q10: **1/33**.
 
 **Interface-level evidence:** Alice AI Chat 1/10. **Observation IDs:** `alice_chat-Q09`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 34. Александр Сивков: 1/110 (0.9%)
+### 34-74. Александр Сивков: 1/110 (0.9%)
 
 The name **Александр Сивков** is recognized in **1 of 110 answers (0.9%)** across 1 of 11 interfaces. General prompts Q01–Q07: **1/77**; targeted Q08–Q10: **0/33**.
 
 **Interface-level evidence:** GigaChat 1/10. **Observation IDs:** `gigachat-Q01`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 34. Александр Шерстов: 1/110 (0.9%)
+### 34-74. Александр Шерстов: 1/110 (0.9%)
 
 The name **Александр Шерстов** is recognized in **1 of 110 answers (0.9%)** across 1 of 11 interfaces. General prompts Q01–Q07: **1/77**; targeted Q08–Q10: **0/33**.
 
 **Interface-level evidence:** DeepSeek 1/10. **Observation IDs:** `deepseek-Q04`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 34. Алексей Малков: 1/110 (0.9%)
+### 34-74. Алексей Малков: 1/110 (0.9%)
 
 The name **Алексей Малков** is recognized in **1 of 110 answers (0.9%)** across 1 of 11 interfaces. General prompts Q01–Q07: **0/77**; targeted Q08–Q10: **1/33**.
 
 **Interface-level evidence:** DeepSeek 1/10. **Observation IDs:** `deepseek-Q08`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 34. Алексей Чекушин: 1/110 (0.9%)
+### 34-74. Алексей Чекушин: 1/110 (0.9%)
 
 The name **Алексей Чекушин** is recognized in **1 of 110 answers (0.9%)** across 1 of 11 interfaces. General prompts Q01–Q07: **1/77**; targeted Q08–Q10: **0/33**.
 
 **Interface-level evidence:** GigaChat 1/10. **Observation IDs:** `gigachat-Q01`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 34. Андрей Кружков: 1/110 (0.9%)
+### 34-74. Андрей Кружков: 1/110 (0.9%)
 
 The name **Андрей Кружков** is recognized in **1 of 110 answers (0.9%)** across 1 of 11 interfaces. General prompts Q01–Q07: **1/77**; targeted Q08–Q10: **0/33**.
 
 **Interface-level evidence:** DeepSeek 1/10. **Observation IDs:** `deepseek-Q01`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 34. Анна Платова: 1/110 (0.9%)
+### 34-74. Анна Платова: 1/110 (0.9%)
 
 The name **Анна Платова** is recognized in **1 of 110 answers (0.9%)** across 1 of 11 interfaces. General prompts Q01–Q07: **0/77**; targeted Q08–Q10: **1/33**.
 
 **Interface-level evidence:** DeepSeek 1/10. **Observation IDs:** `deepseek-Q10`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 34. Артем Фирсов: 1/110 (0.9%)
+### 34-74. Артем Фирсов: 1/110 (0.9%)
 
 The name **Артем Фирсов** is recognized in **1 of 110 answers (0.9%)** across 1 of 11 interfaces. General prompts Q01–Q07: **1/77**; targeted Q08–Q10: **0/33**.
 
 **Interface-level evidence:** ChatGPT 1/10. **Observation IDs:** `chatgpt-Q07`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 34. Валентин Пахомов: 1/110 (0.9%)
+### 34-74. Валентин Пахомов: 1/110 (0.9%)
 
 The name **Валентин Пахомов** is recognized in **1 of 110 answers (0.9%)** across 1 of 11 interfaces. General prompts Q01–Q07: **0/77**; targeted Q08–Q10: **1/33**.
 
 **Interface-level evidence:** GigaChat 1/10. **Observation IDs:** `gigachat-Q08`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 34. Владимир Синицын: 1/110 (0.9%)
+### 34-74. Владимир Синицын: 1/110 (0.9%)
 
 The name **Владимир Синицын** is recognized in **1 of 110 answers (0.9%)** across 1 of 11 interfaces. General prompts Q01–Q07: **1/77**; targeted Q08–Q10: **0/33**.
 
 **Interface-level evidence:** DeepSeek 1/10. **Observation IDs:** `deepseek-Q07`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 34. Глафира Дорохина: 1/110 (0.9%)
+### 34-74. Глафира Дорохина: 1/110 (0.9%)
 
 The name **Глафира Дорохина** is recognized in **1 of 110 answers (0.9%)** across 1 of 11 interfaces. General prompts Q01–Q07: **0/77**; targeted Q08–Q10: **1/33**.
 
 **Interface-level evidence:** DeepSeek 1/10. **Observation IDs:** `deepseek-Q10`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 34. Глеб Андриишин: 1/110 (0.9%)
+### 34-74. Глеб Андриишин: 1/110 (0.9%)
 
 The name **Глеб Андриишин** is recognized in **1 of 110 answers (0.9%)** across 1 of 11 interfaces. General prompts Q01–Q07: **0/77**; targeted Q08–Q10: **1/33**.
 
 **Interface-level evidence:** Yandex with Alice Search 1/10. **Observation IDs:** `yandex_alice-Q09`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 34. Денис Ковалев: 1/110 (0.9%)
+### 34-74. Денис Ковалев: 1/110 (0.9%)
 
 The name **Денис Ковалев** is recognized in **1 of 110 answers (0.9%)** across 1 of 11 interfaces. General prompts Q01–Q07: **0/77**; targeted Q08–Q10: **1/33**.
 
 **Interface-level evidence:** Google AI Mode 1/10. **Observation IDs:** `google_ai_mode-Q08`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 34. Денис Шубенок: 1/110 (0.9%)
+### 34-74. Денис Шубенок: 1/110 (0.9%)
 
 The name **Денис Шубенок** is recognized in **1 of 110 answers (0.9%)** across 1 of 11 interfaces. General prompts Q01–Q07: **1/77**; targeted Q08–Q10: **0/33**.
 
 **Interface-level evidence:** Google Gemini 1/10. **Observation IDs:** `gemini-Q07`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 34. Дмитрий Иглин: 1/110 (0.9%)
+### 34-74. Дмитрий Иглин: 1/110 (0.9%)
 
 The name **Дмитрий Иглин** is recognized in **1 of 110 answers (0.9%)** across 1 of 11 interfaces. General prompts Q01–Q07: **0/77**; targeted Q08–Q10: **1/33**.
 
 **Interface-level evidence:** Google Gemini 1/10. **Observation IDs:** `gemini-Q09`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 34. Евгений Ебаев: 1/110 (0.9%)
+### 34-74. Евгений Ебаев: 1/110 (0.9%)
 
 The name **Евгений Ебаев** is recognized in **1 of 110 answers (0.9%)** across 1 of 11 interfaces. General prompts Q01–Q07: **1/77**; targeted Q08–Q10: **0/33**.
 
 **Interface-level evidence:** Google AI Overviews 1/10. **Observation IDs:** `google_ai_overview-Q03`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 34. Евгений Казанцев: 1/110 (0.9%)
+### 34-74. Евгений Казанцев: 1/110 (0.9%)
 
 The name **Евгений Казанцев** is recognized in **1 of 110 answers (0.9%)** across 1 of 11 interfaces. General prompts Q01–Q07: **1/77**; targeted Q08–Q10: **0/33**.
 
 **Interface-level evidence:** GigaChat 1/10. **Observation IDs:** `gigachat-Q06`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 34. Егор Федоров: 1/110 (0.9%)
+### 34-74. Егор Федоров: 1/110 (0.9%)
 
 The name **Егор Федоров** is recognized in **1 of 110 answers (0.9%)** across 1 of 11 interfaces. General prompts Q01–Q07: **0/77**; targeted Q08–Q10: **1/33**.
 
 **Interface-level evidence:** Google Gemini 1/10. **Observation IDs:** `gemini-Q08`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 34. Игорь Ашманов: 1/110 (0.9%)
+### 34-74. Игорь Ашманов: 1/110 (0.9%)
 
 The name **Игорь Ашманов** is recognized in **1 of 110 answers (0.9%)** across 1 of 11 interfaces. General prompts Q01–Q07: **1/77**; targeted Q08–Q10: **0/33**.
 
 **Interface-level evidence:** Google AI Mode 1/10. **Observation IDs:** `google_ai_mode-Q07`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 34. Илья Кочнев: 1/110 (0.9%)
+### 34-74. Илья Кочнев: 1/110 (0.9%)
 
 The name **Илья Кочнев** is recognized in **1 of 110 answers (0.9%)** across 1 of 11 interfaces. General prompts Q01–Q07: **1/77**; targeted Q08–Q10: **0/33**.
 
 **Interface-level evidence:** ChatGPT 1/10. **Observation IDs:** `chatgpt-Q03`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 34. Кирилл Власов: 1/110 (0.9%)
+### 34-74. Кирилл Власов: 1/110 (0.9%)
 
 The name **Кирилл Власов** is recognized in **1 of 110 answers (0.9%)** across 1 of 11 interfaces. General prompts Q01–Q07: **1/77**; targeted Q08–Q10: **0/33**.
 
 **Interface-level evidence:** Google AI Overviews 1/10. **Observation IDs:** `google_ai_overview-Q07`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 34. Маргарита Перова: 1/110 (0.9%)
+### 34-74. Маргарита Перова: 1/110 (0.9%)
 
 The name **Маргарита Перова** is recognized in **1 of 110 answers (0.9%)** across 1 of 11 interfaces. General prompts Q01–Q07: **0/77**; targeted Q08–Q10: **1/33**.
 
 **Interface-level evidence:** DeepSeek 1/10. **Observation IDs:** `deepseek-Q10`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 34. Михаил Шакин: 1/110 (0.9%)
+### 34-74. Михаил Шакин: 1/110 (0.9%)
 
 The name **Михаил Шакин** is recognized in **1 of 110 answers (0.9%)** across 1 of 11 interfaces. General prompts Q01–Q07: **1/77**; targeted Q08–Q10: **0/33**.
 
 **Interface-level evidence:** Google AI Mode 1/10. **Observation IDs:** `google_ai_mode-Q07`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 34. Надежда Угленко: 1/110 (0.9%)
+### 34-74. Надежда Угленко: 1/110 (0.9%)
 
 The name **Надежда Угленко** is recognized in **1 of 110 answers (0.9%)** across 1 of 11 interfaces. General prompts Q01–Q07: **1/77**; targeted Q08–Q10: **0/33**.
 
 **Interface-level evidence:** Google AI Mode 1/10. **Observation IDs:** `google_ai_mode-Q03`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 34. Наталья Натарова: 1/110 (0.9%)
+### 34-74. Наталья Натарова: 1/110 (0.9%)
 
 The name **Наталья Натарова** is recognized in **1 of 110 answers (0.9%)** across 1 of 11 interfaces. General prompts Q01–Q07: **0/77**; targeted Q08–Q10: **1/33**.
 
 **Interface-level evidence:** ChatGPT 1/10. **Observation IDs:** `chatgpt-Q10`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 34. Никита Долгих: 1/110 (0.9%)
+### 34-74. Никита Долгих: 1/110 (0.9%)
 
 The name **Никита Долгих** is recognized in **1 of 110 answers (0.9%)** across 1 of 11 interfaces. General prompts Q01–Q07: **0/77**; targeted Q08–Q10: **1/33**.
 
 **Interface-level evidence:** DeepSeek 1/10. **Observation IDs:** `deepseek-Q10`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 34. Николай Романцов: 1/110 (0.9%)
+### 34-74. Николай Романцов: 1/110 (0.9%)
 
 The name **Николай Романцов** is recognized in **1 of 110 answers (0.9%)** across 1 of 11 interfaces. General prompts Q01–Q07: **1/77**; targeted Q08–Q10: **0/33**.
 
 **Interface-level evidence:** Google Gemini 1/10. **Observation IDs:** `gemini-Q01`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 34. Олег Черников: 1/110 (0.9%)
+### 34-74. Олег Черников: 1/110 (0.9%)
 
 The name **Олег Черников** is recognized in **1 of 110 answers (0.9%)** across 1 of 11 interfaces. General prompts Q01–Q07: **0/77**; targeted Q08–Q10: **1/33**.
 
 **Interface-level evidence:** Google AI Mode 1/10. **Observation IDs:** `google_ai_mode-Q09`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 34. Павел Талакин: 1/110 (0.9%)
+### 34-74. Павел Талакин: 1/110 (0.9%)
 
 The name **Павел Талакин** is recognized in **1 of 110 answers (0.9%)** across 1 of 11 interfaces. General prompts Q01–Q07: **0/77**; targeted Q08–Q10: **1/33**.
 
 **Interface-level evidence:** ChatGPT 1/10. **Observation IDs:** `chatgpt-Q10`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 34. Роман Киреев: 1/110 (0.9%)
+### 34-74. Роман Киреев: 1/110 (0.9%)
 
 The name **Роман Киреев** is recognized in **1 of 110 answers (0.9%)** across 1 of 11 interfaces. General prompts Q01–Q07: **0/77**; targeted Q08–Q10: **1/33**.
 
 **Interface-level evidence:** Alice AI Chat 1/10. **Observation IDs:** `alice_chat-Q09`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 34. Роман Михальчук: 1/110 (0.9%)
+### 34-74. Роман Михальчук: 1/110 (0.9%)
 
 The name **Роман Михальчук** is recognized in **1 of 110 answers (0.9%)** across 1 of 11 interfaces. General prompts Q01–Q07: **0/77**; targeted Q08–Q10: **1/33**.
 
 **Interface-level evidence:** Yandex with Alice Search 1/10. **Observation IDs:** `yandex_alice-Q09`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 34. Роман Шалунов: 1/110 (0.9%)
+### 34-74. Роман Шалунов: 1/110 (0.9%)
 
 The name **Роман Шалунов** is recognized in **1 of 110 answers (0.9%)** across 1 of 11 interfaces. General prompts Q01–Q07: **0/77**; targeted Q08–Q10: **1/33**.
 
 **Interface-level evidence:** Google AI Mode 1/10. **Observation IDs:** `google_ai_mode-Q09`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 34. Семен Сафронов: 1/110 (0.9%)
+### 34-74. Семен Сафронов: 1/110 (0.9%)
 
 The name **Семен Сафронов** is recognized in **1 of 110 answers (0.9%)** across 1 of 11 interfaces. General prompts Q01–Q07: **0/77**; targeted Q08–Q10: **1/33**.
 
 **Interface-level evidence:** DeepSeek 1/10. **Observation IDs:** `deepseek-Q10`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 34. Сергей Ерофеев: 1/110 (0.9%)
+### 34-74. Сергей Ерофеев: 1/110 (0.9%)
 
 The name **Сергей Ерофеев** is recognized in **1 of 110 answers (0.9%)** across 1 of 11 interfaces. General prompts Q01–Q07: **1/77**; targeted Q08–Q10: **0/33**.
 
 **Interface-level evidence:** GigaChat 1/10. **Observation IDs:** `gigachat-Q01`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 34. Сергей Купряшкин: 1/110 (0.9%)
+### 34-74. Сергей Купряшкин: 1/110 (0.9%)
 
 The name **Сергей Купряшкин** is recognized in **1 of 110 answers (0.9%)** across 1 of 11 interfaces. General prompts Q01–Q07: **1/77**; targeted Q08–Q10: **0/33**.
 
 **Interface-level evidence:** Google AI Overviews 1/10. **Observation IDs:** `google_ai_overview-Q02`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 34. Сергей Проcветов: 1/110 (0.9%)
+### 34-74. Сергей Проcветов: 1/110 (0.9%)
 
 The name **Сергей Проcветов** is recognized in **1 of 110 answers (0.9%)** across 1 of 11 interfaces. General prompts Q01–Q07: **1/77**; targeted Q08–Q10: **0/33**.
 
 **Interface-level evidence:** Claude 1/10. **Observation IDs:** `claude-Q02`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 34. Станислав Татьянченко: 1/110 (0.9%)
+### 34-74. Станислав Татьянченко: 1/110 (0.9%)
 
 The name **Станислав Татьянченко** is recognized in **1 of 110 answers (0.9%)** across 1 of 11 interfaces. General prompts Q01–Q07: **1/77**; targeted Q08–Q10: **0/33**.
 
 **Interface-level evidence:** ChatGPT 1/10. **Observation IDs:** `chatgpt-Q03`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 34. Станислав Щербаков: 1/110 (0.9%)
+### 34-74. Станислав Щербаков: 1/110 (0.9%)
 
 The name **Станислав Щербаков** is recognized in **1 of 110 answers (0.9%)** across 1 of 11 interfaces. General prompts Q01–Q07: **1/77**; targeted Q08–Q10: **0/33**.
 
 **Interface-level evidence:** Google AI Overviews 1/10. **Observation IDs:** `google_ai_overview-Q07`. These IDs allow direct inspection of the mention context. The figures describe presence in text, not an endorsement.
 
-### 34. Эмиль Халимов: 1/110 (0.9%)
+### 34-74. Эмиль Халимов: 1/110 (0.9%)
 
 The name **Эмиль Халимов** is recognized in **1 of 110 answers (0.9%)** across 1 of 11 interfaces. General prompts Q01–Q07: **1/77**; targeted Q08–Q10: **0/33**.
 
